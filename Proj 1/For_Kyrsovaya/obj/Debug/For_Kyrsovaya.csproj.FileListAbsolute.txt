@@ -1,0 +1,6 @@
+C:\Users\Bulat\Desktop\Мои проекты\Курсовые\АиП\_Курсовая_\For_Kyrsovaya\bin\Debug\For_Kyrsovaya.dll
+C:\Users\Bulat\Desktop\Мои проекты\Курсовые\АиП\_Курсовая_\For_Kyrsovaya\bin\Debug\For_Kyrsovaya.pdb
+C:\Users\Bulat\Desktop\Мои проекты\Курсовые\АиП\_Курсовая_\For_Kyrsovaya\obj\Debug\For_Kyrsovaya.csproj.AssemblyReference.cache
+C:\Users\Bulat\Desktop\Мои проекты\Курсовые\АиП\_Курсовая_\For_Kyrsovaya\obj\Debug\For_Kyrsovaya.csproj.CoreCompileInputs.cache
+C:\Users\Bulat\Desktop\Мои проекты\Курсовые\АиП\_Курсовая_\For_Kyrsovaya\obj\Debug\For_Kyrsovaya.dll
+C:\Users\Bulat\Desktop\Мои проекты\Курсовые\АиП\_Курсовая_\For_Kyrsovaya\obj\Debug\For_Kyrsovaya.pdb
